@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **JavaScript, SQA Engineering**
+- 🌱 I’m currently learning ** SQA Engineering**
 
 - 💬 Ask me about **JS, RN, SQA Engineering**
 
